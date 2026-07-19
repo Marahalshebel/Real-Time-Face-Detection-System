@@ -64,6 +64,23 @@ Face_20260719_224530.jpg
 
 - **S** → Save current image.
 - **Q** → Exit the application.
+- ---
+
+## Output
+
+The application interface displays:
+
+- Live webcam feed.
+- Corner-style face detection.
+- Face labels.
+- Number of detected faces.
+- Real-time date and time.
+- Welcome message during startup.
+- No-face warning.
+- Automatic image saving.
+
+![Output](Output.jpg)
+
 
 ---
 
@@ -101,22 +118,6 @@ Face_20260719_224530.jpg
 9. A warning message appears when no face is detected.
 10. Users can save images with automatically generated timestamped filenames.
 
----
-
-## Output
-
-The application interface displays:
-
-- Live webcam feed.
-- Corner-style face detection.
-- Face labels.
-- Number of detected faces.
-- Real-time date and time.
-- Welcome message during startup.
-- No-face warning.
-- Automatic image saving.
-
-![Output](Output.jpg)
 
 ---
 
