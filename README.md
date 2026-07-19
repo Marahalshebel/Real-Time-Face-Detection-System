@@ -116,7 +116,7 @@ The application interface displays:
 - No-face warning.
 - Automatic image saving.
 
-![Output](Screenshot.png)
+![Output](Output.jpg)
 
 ---
 
