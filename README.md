@@ -82,10 +82,9 @@ Face_20260719_224530.jpg
 
 | File | Description |
 |------|-------------|
-| Face_Detection.ipynb | Main notebook containing the implementation |
-| Screenshot.png | Screenshot of the application |
-| Face1.jpg | Sample image used for testing |
-| README.md | Project documentation |
+| [Face_Detection.ipynb](Face_Detection.ipynb) | Main notebook containing the complete face detection implementation. |
+| [Screenshot.png](Screenshot.png) | Screenshot demonstrating the application's output. |
+| [README.md](README.md) | Project documentation, setup instructions, and feature overview. |
 
 ---
 
@@ -129,9 +128,3 @@ The application interface displays:
 - Emotion recognition.
 - Deep learning-based face detection.
 - Video recording functionality.
-
----
-
-## Author
-
-Developed as part of a Robotics and Computer Vision training project using Python and OpenCV.
